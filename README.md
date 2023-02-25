@@ -1,4 +1,3 @@
 # This is documentation for Samples
-Ther are no typos here
-This line needs to be deleted
+There are no typos here
 This line needs to be kept
